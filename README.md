@@ -24,5 +24,13 @@ ___Drag & Drop___ sample data (.txt)
 | scale e `number` \| s e `number` | change edge width |
 | start | start animation |
 | stop | stop animation |
-| save `name?` | save as 'name'.png or download.png |
+| save `name?` | save as 'name'.txt or download.txt |
 | reset | reset all parameter |
+
+`color`: `#FF0`, `#FF00FF`, `0 255 255`
+```
+c bg #000
+c v 255 255 255
+s v .75
+save data1
+```
