@@ -135,12 +135,6 @@ function importData(str) {
     paint()
 }
 
-// const rr = '1 2 3 4'
-// console.log(rr)
-// const tt = rr.split(' ')
-// console.log(rr)
-// console.log(tt)
-
 // ================================================== [50]
 //     END
 // ================================================== [50]
